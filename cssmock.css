@@ -1,0 +1,63 @@
+button{
+    background-color:rgb(30, 175, 223);
+    color:white;
+    border:none;
+    border-radius: 5px;
+    font-size:16px;
+    size:2em;
+    padding: 10px 20px;
+    display:block;
+}
+
+button:hover{
+    cursor: pointer;
+    background: rgb(6, 98, 236);
+}
+
+#cat {
+    border-radius: 4px 4px 0 0;
+    max-width:20%;
+    margin:0;
+}
+
+h2 {
+    position:relative;
+    display:block;
+    top:0px;
+    width:19%;
+    background-color:lightgray;
+    padding: 20px 7px;
+    border: 1px solid rgb(170, 170, 170);
+    margin:0;
+    position:relative;
+    top:0;
+    font-size:1em;
+}
+
+p {
+    width:19%;
+    background-color:lightgray;
+    margin:0;
+    padding:20px 7px;
+    border:1px solid rgb(170, 170, 170);
+    border-radius: 0 0 4px 4px;
+}
+
+#kristen {
+    box-sizing:border-box;
+    margin: 4em;
+    border-radius: 4px;
+    border: 10px solid rgb(250, 199, 104);
+}
+
+#tina {
+    margin:4em;
+    border-radius: 4px;
+    border: 10px solid rgb(250, 199, 104);
+}
+
+#hamster{
+    margin:4em;
+    border-radius: 4px;
+    border: 10px solid rgb(250, 199, 104);
+}
